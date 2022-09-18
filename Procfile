@@ -1,1 +1,1 @@
-web:sh setup.sh && streamlit run diabetes-prediction.py
+web: sh setup.sh && streamlit run diabetes-prediction.py
