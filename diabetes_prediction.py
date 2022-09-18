@@ -6,7 +6,7 @@ from streamlit_option_menu import option_menu
 
 # loading the saved model
 
-diabetes_model = pickle.load(open('C:\\Users\bhush\Desktop\TY\Prediction-project\diabetes_model.sav', 'rb'))
+diabetes_model = pickle.load(open('C:/Users/bhush/Desktop/TY/Prediction-project/diabetes_model.sav', 'rb'))
 
     
 # Diabetes Prediction Page
